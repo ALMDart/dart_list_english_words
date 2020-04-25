@@ -1,3 +1,6 @@
+## 0.1.1
+- Make description consistent, add doc comments
+
 ## 0.1.0
 - Maintain package health, bump versions for health
 
