@@ -1,4 +1,4 @@
-import 'package:dart_list_english_words/dart_list_english_words.dart';
+import 'package:list_english_words/list_english_words.dart';
 import 'package:test/test.dart';
 
 void main() {
