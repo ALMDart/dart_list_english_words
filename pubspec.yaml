@@ -1,13 +1,10 @@
 name: list_english_words
-description: https://github.com/ALMaclaine/dart_list_english_words.git
+description: A list of english words for use in other tools.
+repository: https://github.com/ALMaclaine/dart_list_english_words
 version: 0.0.1
-# homepage: https://www.example.com
 
 environment:
   sdk: '>=2.7.0 <3.0.0'
-
-#dependencies:
-#  path: ^1.6.0
 
 dev_dependencies:
   effective_dart: ^1.2.1
