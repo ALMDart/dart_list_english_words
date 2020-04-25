@@ -1,17 +1,17 @@
-A library for Dart developers.
+# list_english_words
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+## Overview
+A list of english words for use in other tools.
 
 ## Usage
 
 A simple usage example:
 
 ```dart
-import 'package:dart_list_english_words/dart_list_english_words.dart';
+import 'package:list_english_words/list_english_words.dart';
 
 main() {
-  var awesome = new Awesome();
+  print(list_english_words.sublist(0, 50).join('\n'));
 }
 ```
 
@@ -19,4 +19,4 @@ main() {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/ALMaclaine/dart_list_english_words/issues
