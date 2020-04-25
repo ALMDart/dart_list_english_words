@@ -1,7 +1,7 @@
 # list_english_words
 
 ## Overview
-A list of english words for use in other tools.
+This package contains a list of english words for use in other tools. From spell checkers, to ngram analysis.
 
 ## Usage
 
