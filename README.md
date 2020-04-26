@@ -3,6 +3,8 @@
 ## Overview
 This package contains a list of english words for use in other tools. From spell checkers, to ngram analysis.
 
+Warning: Loading Long Lists Can Reduce Application Performance
+
 ## Usage
 
 A simple usage example:
