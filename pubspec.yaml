@@ -2,7 +2,7 @@ name: list_english_words
 description: This package contains a list of english words for use in other tools. From spell checkers, to ngram analysis.
 repository: https://github.com/ALMDart/dart_list_english_words
 homepage: https://github.com/ALMDart/dart_list_english_words
-version: 0.1.1+4
+version: 0.1.1+3
 
 environment:
   sdk: '>=2.16.0 <3.0.0'
