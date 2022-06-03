@@ -1,3 +1,7 @@
+## 0.2.0
+
+- opt into null safety
+
 ## 0.1.1+3
 - change repo
 
